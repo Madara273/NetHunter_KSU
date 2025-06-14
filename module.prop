@@ -1,0 +1,7 @@
+id=Kali-NetHunter-Pro
+name=Kali-NetHunter for Android
+version=1.4.0_1-beta
+versionCode=1000
+author=Nethunter-Team @ gitlab and Madara273 (Add KSU install script app/chroot)
+description=Kali-NetHunter apps, binary, firmwares, chroot, wallpepper & kernel
+template=1510
