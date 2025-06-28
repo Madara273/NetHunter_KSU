@@ -7,7 +7,7 @@
 ## 📌 About this repo
 
 This repository is a **modified version of the original NetHunter Magisk module**, adapted for **KernelSU (KSU)**.
-What was changed? — **nothing, I just added an install.sh script that helps install the NetHunter module via the KSU manager.**
+What was changed? — **nothing, I just added modified an install.sh script that helps install the NetHunter module via the KSU manager.**
 The project is based on the idea from [poxiao676/Nethunter_KSU_Module](https://github.com/poxiao676/Nethunter_KSU_Module), but:
 
 - ❌ The original module has not been updated for a long time
