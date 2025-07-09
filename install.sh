@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/system/bin/sh
 
 # --- Configure ---
 SKIPMOUNT=false          # --- Mount not skipped
